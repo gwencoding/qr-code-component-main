@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-[](./preview.jpg)
+![](./design/preview.jpg) 
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -23,7 +23,7 @@ Build a customizable QR code component that closely matches a provided design mo
 ### Links
 
 - Solution URL: [Github solution](https://github.com/gwencoding/qr-code-component-main)
-- Live Site URL: [Website Live](https://your-live-site-url.com)
+- Live Site URL: [Website Live](https://qr-code-component-gc.netlify.app)
 
 ## My process
 
