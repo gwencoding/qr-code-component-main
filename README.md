@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Build a customizable QR code component that closely matches a provided design mockup. Use any tools or libraries to generate and style the QR code, ensuring it’s visually accurate, responsive, and reusable. Focus on attention to detail to create a polished, pixel-perfect implementation.
 ### Screenshot
 
-![](./images/qr-code-main-screenshot.png)
+![](./images/qr-component-ss2.png)
 
 
 ### Links
